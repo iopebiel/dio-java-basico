@@ -3,19 +3,22 @@ package edu.gabriel.segundasemana;
 public class TipoVariavel {
 
     public static void main(String[] args) {
-        String meuNome = "Gabriel Iope";
-
+        String nome = "Gabriel";
         double salarioMinimo = 2500.34;
         short numeroCurto = 1;
         int numeroNormal = numeroCurto;
-        short numeroCurto2 = (short) numeroNormal; //não recomendado, precisão maior para uma menor 
+        //short numeroCurto2 = (short) numeroNormal; //não recomendado, precisão maior para uma menor 
+        System.out.println(numeroNormal);
+        
+        System.out.println(nome+": " + salarioMinimo);
 
+        
         int numero = 5;
 
         numero = 10;
 
         System.out.println(numero);
 
-        final double VALOR_DE_PI = 3.14;
+        //final double VALOR_DE_PI = 3.14; //constante
     }
 }
