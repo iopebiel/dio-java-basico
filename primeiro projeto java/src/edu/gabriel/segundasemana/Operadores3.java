@@ -5,7 +5,7 @@ public class Operadores3 {
         int a, b;
         a = 7;
         b = 10;
-        String resultado =  a > b ? "Verdadeiro" : "Falso";
+        String resultado =  a > b ? "Verdadeiro" : "Falso"; //Operador Ternário
         
         System.out.println(resultado);
     }

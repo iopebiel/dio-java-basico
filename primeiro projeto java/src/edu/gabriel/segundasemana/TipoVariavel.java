@@ -19,6 +19,10 @@ public class TipoVariavel {
 
         System.out.println(numero);
 
-        //final double VALOR_DE_PI = 3.14; //constante
+        final double VALOR_DE_PI = 3.14; //constante
+
+        //VALOR_DE_PI = 10.14; //Não efetua alteração
+
+        System.out.println(VALOR_DE_PI);
     }
 }
