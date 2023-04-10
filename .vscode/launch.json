@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "RodarAplicacao",
+            "request": "launch",
+            "mainClass": "edu.gabriel.quintasemana.RodarAplicacao",
+            "projectName": "dio-java-basico_49734544"
+        },
+        {
+            "type": "java",
             "name": "Current File",
             "request": "launch",
             "mainClass": "${file}"
@@ -24,11 +31,11 @@
             "mainClass": "edu.gabriel.quartasemana.AboutMe",
             "projectName": "dio-java-basico_49734544",
             "args": [
-                    "Gabriel", 
-                    "Iope", 
-                    "19", 
-                    "1.77"
-                    ]        
+                "Gabriel",
+                "Iope",
+                "19",
+                "1.77"
+            ]
         },
         {
             "type": "java",

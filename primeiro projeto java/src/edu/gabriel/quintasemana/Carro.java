@@ -20,7 +20,7 @@ public class Carro { //Classe carro
 
 //metodos set e get
 
-    void setcor(String cor) //setar/colocar um valor no atributo cor
+    void setCor(String cor) //setar/colocar um valor no atributo cor
     {
         this.cor = cor;
     }
@@ -41,7 +41,7 @@ public class Carro { //Classe carro
         this.capacidadeTanque = capacidadeTanque;
     }
 
-    int getcapacidadeTanque(){
+    int getCapacidadeTanque(){
         return capacidadeTanque;
     }
 
