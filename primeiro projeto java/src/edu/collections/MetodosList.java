@@ -5,7 +5,7 @@ import java.util.Collections;
 import java.util.Iterator;
 import java.util.List;
 
-public class ExemploList {
+public class MetodosList {
     public static void main(String[] args) {
 
         List<Double> notas = new ArrayList<Double>(); //inicialização da variável em lista.

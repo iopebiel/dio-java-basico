@@ -6,6 +6,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "OrdenacaoList",
+      "request": "launch",
+      "mainClass": "edu.collections.OrdenacaoList",
+      "projectName": "dio-java-basico_49734544"
+    },
+    {
+      "type": "java",
       "name": "ExemploList",
       "request": "launch",
       "mainClass": "edu.collections.ExemploList",
@@ -37,7 +44,12 @@
       "request": "launch",
       "mainClass": "edu.gabriel.quartasemana.AboutMe",
       "projectName": "dio-java-basico_49734544",
-      "args": ["Gabriel", "Iope", "19", "1.77"]
+      "args": [
+        "Gabriel",
+        "Iope",
+        "19",
+        "1.77"
+      ]
     },
     {
       "type": "java",

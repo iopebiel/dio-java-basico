@@ -1,4 +1,4 @@
-package edu.gabriel.exercicios;
+package edu.gabriel.segundasemana;
 
 public class OperadoresRelacionais {
     public static void main(String[] args) {
