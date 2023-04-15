@@ -1,104 +1,106 @@
 {
-    // Use IntelliSense to learn about possible attributes.
-    // Hover to view descriptions of existing attributes.
-    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
-    "version": "0.2.0",
-    "configurations": [
-        {
-            "type": "java",
-            "name": "RodarAplicacao",
-            "request": "launch",
-            "mainClass": "edu.gabriel.quintasemana.RodarAplicacao",
-            "projectName": "dio-java-basico_49734544"
-        },
-        {
-            "type": "java",
-            "name": "Current File",
-            "request": "launch",
-            "mainClass": "${file}"
-        },
-        {
-            "type": "java",
-            "name": "MinhaClasse",
-            "request": "launch",
-            "mainClass": "edu.gabriel.primeirasemana.MinhaClasse",
-            "projectName": "dio-java-basico_49734544"
-        },
-        {
-            "type": "java",
-            "name": "AboutMe",
-            "request": "launch",
-            "mainClass": "edu.gabriel.quartasemana.AboutMe",
-            "projectName": "dio-java-basico_49734544",
-            "args": [
-                "Gabriel",
-                "Iope",
-                "19",
-                "1.77"
-            ]
-        },
-        {
-            "type": "java",
-            "name": "MinhaClasse(1)",
-            "request": "launch",
-            "mainClass": "edu.gabriel.quartasemana.MinhaClasse",
-            "projectName": "dio-java-basico_49734544"
-        },
-        {
-            "type": "java",
-            "name": "BoletimEstudantil",
-            "request": "launch",
-            "mainClass": "edu.gabriel.segundasemana.BoletimEstudantil",
-            "projectName": "dio-java-basico_49734544"
-        },
-        {
-            "type": "java",
-            "name": "Operadores",
-            "request": "launch",
-            "mainClass": "edu.gabriel.segundasemana.Operadores",
-            "projectName": "dio-java-basico_49734544"
-        },
-        {
-            "type": "java",
-            "name": "Operadores2",
-            "request": "launch",
-            "mainClass": "edu.gabriel.segundasemana.Operadores2",
-            "projectName": "dio-java-basico_49734544"
-        },
-        {
-            "type": "java",
-            "name": "Operadores3",
-            "request": "launch",
-            "mainClass": "edu.gabriel.segundasemana.Operadores3",
-            "projectName": "dio-java-basico_49734544"
-        },
-        {
-            "type": "java",
-            "name": "Operadores4",
-            "request": "launch",
-            "mainClass": "edu.gabriel.segundasemana.Operadores4",
-            "projectName": "dio-java-basico_49734544"
-        },
-        {
-            "type": "java",
-            "name": "Operadores5",
-            "request": "launch",
-            "mainClass": "edu.gabriel.segundasemana.Operadores5",
-            "projectName": "dio-java-basico_49734544"
-        },
-        {
-            "type": "java",
-            "name": "TipoVariavel",
-            "request": "launch",
-            "mainClass": "edu.gabriel.segundasemana.TipoVariavel",
-            "projectName": "dio-java-basico_49734544"
-        },
-        {
-            "type": "java",
-            "name": "Usuario",
-            "request": "launch",
-            "mainClass": "edu.gabriel.terceirasemana.sistemasmarttv.Usuario",
-            "projectName": "dio-java-basico_49734544"
-        }
-    ]
+  // Use IntelliSense to learn about possible attributes.
+  // Hover to view descriptions of existing attributes.
+  // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "ExemploList",
+      "request": "launch",
+      "mainClass": "edu.collections.ExemploList",
+      "projectName": "dio-java-basico_49734544"
+    },
+    {
+      "type": "java",
+      "name": "RodarAplicacao",
+      "request": "launch",
+      "mainClass": "edu.gabriel.quintasemana.RodarAplicacao",
+      "projectName": "dio-java-basico_49734544"
+    },
+    {
+      "type": "java",
+      "name": "Current File",
+      "request": "launch",
+      "mainClass": "${file}"
+    },
+    {
+      "type": "java",
+      "name": "MinhaClasse",
+      "request": "launch",
+      "mainClass": "edu.gabriel.primeirasemana.MinhaClasse",
+      "projectName": "dio-java-basico_49734544"
+    },
+    {
+      "type": "java",
+      "name": "AboutMe",
+      "request": "launch",
+      "mainClass": "edu.gabriel.quartasemana.AboutMe",
+      "projectName": "dio-java-basico_49734544",
+      "args": ["Gabriel", "Iope", "19", "1.77"]
+    },
+    {
+      "type": "java",
+      "name": "MinhaClasse(1)",
+      "request": "launch",
+      "mainClass": "edu.gabriel.quartasemana.MinhaClasse",
+      "projectName": "dio-java-basico_49734544"
+    },
+    {
+      "type": "java",
+      "name": "BoletimEstudantil",
+      "request": "launch",
+      "mainClass": "edu.gabriel.segundasemana.BoletimEstudantil",
+      "projectName": "dio-java-basico_49734544"
+    },
+    {
+      "type": "java",
+      "name": "Operadores",
+      "request": "launch",
+      "mainClass": "edu.gabriel.segundasemana.Operadores",
+      "projectName": "dio-java-basico_49734544"
+    },
+    {
+      "type": "java",
+      "name": "Operadores2",
+      "request": "launch",
+      "mainClass": "edu.gabriel.segundasemana.Operadores2",
+      "projectName": "dio-java-basico_49734544"
+    },
+    {
+      "type": "java",
+      "name": "Operadores3",
+      "request": "launch",
+      "mainClass": "edu.gabriel.segundasemana.Operadores3",
+      "projectName": "dio-java-basico_49734544"
+    },
+    {
+      "type": "java",
+      "name": "Operadores4",
+      "request": "launch",
+      "mainClass": "edu.gabriel.segundasemana.Operadores4",
+      "projectName": "dio-java-basico_49734544"
+    },
+    {
+      "type": "java",
+      "name": "Operadores5",
+      "request": "launch",
+      "mainClass": "edu.gabriel.segundasemana.Operadores5",
+      "projectName": "dio-java-basico_49734544"
+    },
+    {
+      "type": "java",
+      "name": "TipoVariavel",
+      "request": "launch",
+      "mainClass": "edu.gabriel.segundasemana.TipoVariavel",
+      "projectName": "dio-java-basico_49734544"
+    },
+    {
+      "type": "java",
+      "name": "Usuario",
+      "request": "launch",
+      "mainClass": "edu.gabriel.terceirasemana.sistemasmarttv.Usuario",
+      "projectName": "dio-java-basico_49734544"
+    }
+  ]
 }
