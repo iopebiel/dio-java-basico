@@ -6,6 +6,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Temperatura",
+      "request": "launch",
+      "mainClass": "edu.collections.Temperatura",
+      "projectName": "dio-java-basico_49734544"
+    },
+    {
+      "type": "java",
       "name": "OrdenacaoList",
       "request": "launch",
       "mainClass": "edu.collections.OrdenacaoList",
