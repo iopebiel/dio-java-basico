@@ -6,6 +6,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "ExemploMap",
+      "request": "launch",
+      "mainClass": "edu.collections.ExemploMap",
+      "projectName": "dio-java-basico_49734544"
+    },
+    {
+      "type": "java",
       "name": "OrdenacaoSet",
       "request": "launch",
       "mainClass": "edu.collections.OrdenacaoSet",
